@@ -6,8 +6,9 @@ The project was developed as a Machine Learning final project with the goal of g
 
 ---
 
-🔗 **Live Demo:** 
-[Interactive Machine Learning Laboratory]
+**🚀 Live Demo**
+
+🔗 Streamlit App:
 (https://interactive-ml-lab.streamlit.app)
 
 ---
